@@ -1,0 +1,12 @@
+
+Puedes crear un archivo CSS para personalizar las etiquetas <h1> al <h6> con las especificaciones que mencionaste. Aquí te dejo un ejemplo:
+
+css
+Copy code
+/* Estilos para etiquetas h1 al h6 */
+h1, h2, h3, h4, h5, h6 {
+    color: red; /* Color del texto rojo */
+    text-decoration: underline; /* Subrayado */
+    text-align: center; /* Centrado */
+}
+
